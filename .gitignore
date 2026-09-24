@@ -2,9 +2,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Archivos generados localmente por los notebooks de Practica3
-Practica3/documentos_sin_preprocesar.txt
-Practica3/documentos_preprocesados.txt
-Practica3/consultas_sin_preprocesar.txt
-Practica3/consultas_preprocesadas.txt
-Practica3/query.text
+# Archivos de texto locales usados o generados por las practicas
+*.txt
+!Practica2/Gutenberg_eBook_of_Grim.txt
