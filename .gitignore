@@ -4,4 +4,4 @@ __pycache__/
 
 # Archivos de texto locales usados o generados por las practicas
 *.txt
-!Practica2/Gutenberg_eBook_of_Grim.txt
+!Practica1/Gutenberg_eBook_of_Grim.txt
