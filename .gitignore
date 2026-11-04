@@ -7,3 +7,5 @@ __pycache__/
 !Practica1/Gutenberg_eBook_of_Grim.txt
 
 *.npz
+
+*.txt
